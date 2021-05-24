@@ -16,7 +16,7 @@
    <%
        String name = request.getParameter("name");
    %>
-    <%= "Hello epta " + name%>
+    <%= "Helloushki " + name %>
 </p>
 </body>
 </html>
